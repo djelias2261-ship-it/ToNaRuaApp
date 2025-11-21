@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ToNaRua",
+  "description": "Aplicativo brasileiro de mobilidade e entregas com suporte a mapas, motoristas e pagamentos via PIX/Cartão.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
